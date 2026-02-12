@@ -21,7 +21,8 @@ Live Demo
 [View Live Project](https://resplendent-hotteok-3a6650.netlify.app/)
 
 Project Structure
-responsive-landing-page/
+responsive-landing-page
+
 │── index.html  
 │── style.css  
 │── README.md  
