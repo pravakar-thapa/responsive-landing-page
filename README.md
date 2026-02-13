@@ -18,7 +18,7 @@ Responsive Design
 The layout adapts to different screen sizes including desktop, tablet, and mobile devices.
 
 Live Demo
-[View Live Project](https://resplendent-hotteok-3a6650.netlify.app/)
+[View Live Project]( https://product-landing-page-live.netlify.app/ )
 
 Project Structure
 responsive-landing-page
